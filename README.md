@@ -11,7 +11,7 @@ My dotfiles configs for Neovim, Fish and Zellij.
 ### Installation
 
 ```
-sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply VladPavly
+sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply dalvnx
 ```
 
 ### Tools and applications
@@ -19,8 +19,3 @@ sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply VladPavly
 * Fish (shell)
 * Neovim (code editor)
 * Zellij (windows)
-
-## Authors
-
-[@VladPavly](https://t.me/dalvpv)
-
